@@ -50,3 +50,4 @@ Si necesitas implementar alguno de estos sistemas en tu negocio o quieres desarr
 * 💬 **Discord:** `hilosporunaldeano`
 * ✉️ **Email:** [acostavelasquezjuanpablo@gmail.com](mailto:acostavelasquezjuanpablo@gmail.com)
 * 📸 **Instagram:** [@aldeano_o](https://instagram.com/aldeano_o)
+
